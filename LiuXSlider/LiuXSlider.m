@@ -6,7 +6,7 @@
 //  Copyright © 2016年 com.anjubao. All rights reserved.
 //
 
-//  git地址：https://github.com/xinge1/LiuXSlider.git
+//  git地址：https://github.com/xinge1/LiuXSlider
 //
 
 
